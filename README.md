@@ -1,6 +1,6 @@
 # Cod Reducere Fashion Days
 
-O colecție de coduri de reducere Fashion Days. Le folosim pentru testarea cuvintelor cheie cod reducere Fashion Days, voucher Fashion Days, cupon Fashion Days, și cod promotional Fashion Days de pe Cuponescu.ro.
+O colecție de coduri de reducere Fashion Days. Le folosim pentru testarea cuvintelor cheie [cod reducere Fashion Days](https://cuponescu.ro/magazin/fashion-days), [voucher Fashion Days](https://cuponescu.ro/magazin/fashion-days), [cupon Fashion Days](https://cuponescu.ro/magazin/fashion-days), și [cod promotional Fashion Days](https://cuponescu.ro/magazin/fashion-days) de pe Cuponescu.ro.
 
 ## Instalare
 
@@ -36,5 +36,4 @@ console.log(codes)
 
 Cod-reducere-fashion-days a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
 
-https://www.cuponescu.ro
-
+https://cuponescu.ro
